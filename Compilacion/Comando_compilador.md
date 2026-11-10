@@ -1,1 +1,1 @@
-
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\csc.exe /r:"C:\Program Files\Microsoft SDKs\Kinect\v1.8\Assemblies\Microsoft.Kinect.dll" /r:System.Windows.Forms.dll /r:System.Drawing.dll KinectViewer.cs
