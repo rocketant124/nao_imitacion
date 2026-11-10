@@ -2,8 +2,9 @@
 
 Este proyecto fue desarrollado y probado utilizando la siguiente configuración:
 
-* **Hardware:** Robot Humanoide NAO v4 (Aldebran Robotics
+* **Hardware:** Robot Humanoide NAO v4 (Aldebran Robotics)
 * **Sistema Operativo del Robot:** NAOqui v1.14.5
+* **Drivers necesarios:** Kinect for Windows SDK v1.8
 * **Entorno de Desarrollo:** Choregraphe v1.14.5
 * **Lenguaje de Programación:** Python 2.7 (Nativo de las caja de código de Choregraphe) & C# para software de track de esqueleto del usuario.
 
@@ -17,8 +18,9 @@ Este proyecto fue desarrollado y probado utilizando la siguiente configuración:
 ├── Cajas de código/                         # Código de python para cajas de código en Choregraphe
 │   ├── imitacion.py/
 │   └── baile.py/
-└── Compilación/     # Comando para compilar el archivo C#
-    |-- Comando_compilador
+|── Compilación/     # Comando para compilar el archivo C#
+|    |-- Comando_compilador
+|-- Troubleshooting.md                       # Problemas comunes durante el desarrollo y como solucionarlos.
 ```
 
 
