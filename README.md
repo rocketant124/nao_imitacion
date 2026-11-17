@@ -2,11 +2,17 @@
 
 Este proyecto fue desarrollado y probado utilizando la siguiente configuración:
 
+
+Uploading Teleoperacion nao 2.mp4…
+
+
 * **Hardware:** Robot Humanoide NAO v4 (Aldebran Robotics)
 * **Sistema Operativo del Robot:** NAOqui v1.14.5
 * **Drivers necesarios:** Kinect for Windows SDK v1.8
 * **Entorno de Desarrollo:** Choregraphe v1.14.5
 * **Lenguaje de Programación:** Python 2.7 (Nativo de las caja de código de Choregraphe) & C# para software de track de esqueleto del usuario.
+
+
 
 
 
