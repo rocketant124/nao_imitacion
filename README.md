@@ -3,6 +3,8 @@
 ## Video demostracion:
 https://github.com/user-attachments/assets/34389fe3-59a1-455f-99ee-ce9e37badcd7
 
+https://github.com/user-attachments/assets/e62917ce-1aaa-48c6-b60b-64e8d24fc330
+
 Este proyecto fue desarrollado y probado utilizando la siguiente configuración:
 
 * **Hardware:** Robot Humanoide NAO v4 (Aldebran Robotics)
