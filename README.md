@@ -1,8 +1,7 @@
 # Sistema de tele operación a distancia de robot NAO
 
 ## Video demostracion:
-https://github.com/user-attachments/assets/3c0241f7-4e86-4c0f-a099-0be4da1d6656
-
+https://github.com/user-attachments/assets/34389fe3-59a1-455f-99ee-ce9e37badcd7
 
 Este proyecto fue desarrollado y probado utilizando la siguiente configuración:
 
