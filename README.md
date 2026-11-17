@@ -4,6 +4,11 @@
   <video src="https://github.com/user-attachments/assets/7a76f9d8-64b8-4f23-bf22-9ebda2fc27f7" width="80%" controls></video>
 </p>
 
+
+
+https://github.com/user-attachments/assets/3c0241f7-4e86-4c0f-a099-0be4da1d6656
+
+
 Este proyecto fue desarrollado y probado utilizando la siguiente configuración:
 
 * **Hardware:** Robot Humanoide NAO v4 (Aldebran Robotics)
