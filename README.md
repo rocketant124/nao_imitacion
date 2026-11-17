@@ -1,20 +1,16 @@
 # Sistema de tele operación a distancia de robot NAO
 
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/7a76f9d8-64b8-4f23-bf22-9ebda2fc27f7" width="80%" controls></video>
+</p>
+
 Este proyecto fue desarrollado y probado utilizando la siguiente configuración:
-
-
-Uploading Teleoperacion nao 2.mp4…
-
 
 * **Hardware:** Robot Humanoide NAO v4 (Aldebran Robotics)
 * **Sistema Operativo del Robot:** NAOqui v1.14.5
 * **Drivers necesarios:** Kinect for Windows SDK v1.8
 * **Entorno de Desarrollo:** Choregraphe v1.14.5
 * **Lenguaje de Programación:** Python 2.7 (Nativo de las caja de código de Choregraphe) & C# para software de track de esqueleto del usuario.
-
-
-
-
 
 ## Estructura del repositorio
 
